@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8479cd6b-027e-4b9c-93c7-969466af6457" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="36QbNzDqy5Xc67jzCqIK52jzox8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.CartPageTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckoutConfirmationPageTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckoutPageTests.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Courses/Software testing/Misr rakamya/Technical/Graduation Project/Repo&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.CheckoutConfirmationPageTests">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Repo" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CartPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team201_SaucedemoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SauceDemoTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SauceDemoTests" />
+      <option name="MAIN_CLASS_NAME" value="SauceDemoTests.CartPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutConfirmationPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team201_SaucedemoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SauceDemoTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SauceDemoTests" />
+      <option name="MAIN_CLASS_NAME" value="SauceDemoTests.CheckoutConfirmationPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckoutPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Team201_SaucedemoTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SauceDemoTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SauceDemoTests" />
+      <option name="MAIN_CLASS_NAME" value="SauceDemoTests.CheckoutPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CheckoutConfirmationPageTests" />
+        <item itemvalue="TestNG.CheckoutPageTests" />
+        <item itemvalue="TestNG.CartPageTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8479cd6b-027e-4b9c-93c7-969466af6457" name="Changes" comment="" />
+      <created>1764941706895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764941706895</updated>
+    </task>
+    <servers />
+  </component>
+</project>
